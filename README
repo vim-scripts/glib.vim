@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=186
+
+This syntax file, written by my friend Jason Thomas, adds to your existing C syntax file many of the extra types and so forth given to you by the excellent glib library from http://www.gtk.org/
+
+It is believed to be complete (at least for 1.2.x), though feel free to submit patches if you find something missing.
+
